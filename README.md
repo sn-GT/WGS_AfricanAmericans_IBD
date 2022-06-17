@@ -1,6 +1,6 @@
 Whole-Genome Sequencing of African Americans Implicates Differential Genetic Architecture in Inflammatory Bowel Disease. H.K Somineni, S. Nagpal, et al. AJHG (2021).
 
-Paper: https://www.sciencedirect.com/science/article/pii/S0002929721000434?via%3Dihub 
+Please cite if using the code/method: https://www.sciencedirect.com/science/article/pii/S0002929721000434?via%3Dihub 
 
 The analysis is divided into the following parts:
 
